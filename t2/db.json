@@ -1,11 +1,13 @@
-[
-    {
-        "detail": "t2d1"
-    },
-    {
-        "detail": "t2d2"
-    },
-    {
-        "detail": "t3d2"
-    }
-]
+{
+    "details": [
+        {
+            "detail": "t2d1"
+        },
+        {
+            "detail": "t2d2"
+        },
+        {
+            "detail": "t3d2"
+        }
+    ]
+}
